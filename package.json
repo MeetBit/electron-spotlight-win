@@ -1,0 +1,9 @@
+{
+  "name": "electron-spotlight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "htts://github.com/MeetBit/electron-spotlight-win.git",
+  "author": "MeetBit Inc.",
+  "license": "MIT",
+  "private": false
+}
